@@ -1,0 +1,156 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: inherit;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Inter", sans-serif;
+}
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
+footer{
+    margin-top: 100px;
+  background-color: black;
+  padding: 15px 100px;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav2 {
+    display: flex;
+    color: white;
+    column-gap: 30px;
+  }
+.nav2 li a {
+    font-size: 18px;
+    font-weight: 500;
+}
+header {
+  background-color: black;
+  padding: 15px 100px;
+}
+.nav-right {
+  display: flex;
+  color: white;
+  column-gap: 30px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-right li a {
+  font-size: 18px;
+  font-weight: 500;
+}
+.txt1{
+    margin-top: 114px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    text-align: center;
+}
+.info img{
+    margin-top: 114px;
+    width: 440px;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+.info2 img{
+    margin-top: 114px;
+    width: 440px;
+}
+.info2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.texts{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text1{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.text2{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.text3{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.t1{
+    font-size: 30px;
+    font-weight: 800;
+}
+.t3{
+    font-size: 30px;
+    font-weight: 800;
+}
+.t5{
+    font-size: 30px;
+    font-weight: 800;
+}
+.t2{
+    margin-top: 20px;
+}
+.t4{
+    margin-top: 20px;
+}
+.t6{
+    margin-top: 20px;
+}
+.texts2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text4{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.text5{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.text6{
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.t7{
+    font-size: 30px;
+    font-weight: 800;
+}
+.t9{
+    font-size: 30px;
+    font-weight: 800;
+}
+.t11{
+    font-size: 30px;
+    font-weight: 800;
+}
+.t10{
+    margin-top: 20px;
+}
+.t8{
+    =margin-top: 20px;
+}
+.t12{
+    margin-top: 20px;
+}
